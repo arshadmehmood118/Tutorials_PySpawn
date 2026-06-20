@@ -10,7 +10,7 @@
 [![OpenMolcas](https://img.shields.io/badge/Electronic%20Structure-OpenMolcas-orange?style=flat-square)](https://gitlab.com/Molcas/OpenMolcas)
 
 *Hands-on session material for **Multiple Spawning with PySpawn** — CyberTraining Summer School & Workshop, University at Buffalo, July 5–11, 2026.*
-
+</div>
 ---
 
 ## 📖 Overview
